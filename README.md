@@ -4,7 +4,7 @@
 
 # Hi there 👋, I'm **Harish Natarajan**
 
-## I'm an final year IT engineer graduate who is an ML/AI enthusiast. I've developed machine learning and deep learning wep apps using Flask and deployed them using Docker on Azure and Heroku cloud. I also code on Hackerrank where I have a five star in python and problem solving. Currently I'm working on Career Advisor using AI.
+## I'm an final year IT engineer graduate who is an ML/AI enthusiast. I've developed machine learning and deep learning web apps using Flask and deployed them using Docker on Azure and Heroku cloud. I also code on Hackerrank where I have a five star in python and problem solving. Currently I'm working on Career Advisor using AI.
 
 ### Info
 - 🔭 I’m currently working on **Machine Learning**, **Natural language processing** and **Deep Learning**
