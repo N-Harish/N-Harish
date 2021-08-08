@@ -5,11 +5,11 @@
 ## Hi there 👋 
 ## I'm *Harish Natarajan*  An final year IT engineer graduate who is an ML/AI enthusiast. I've developed machine learning and deep learning wep apps using Flask and deployed them using Docker on Azure and Heroku cloud. I also code on Hackerrank where I have a five star in python and problem solving. Currently I'm working on machine learning on audio data.
 
-- 🔭 I’m currently working on Machine Learning, Natural language processing and Deep Learning
-- 🌱 I’m currently learning Machine learning on audio data
-- 👯 I’m looking to collaborate on Machine Learning and Computer vision
-- 🤔 I’m looking for help with machine learning on big data
-- 💬 Ask me about Deep Learning, Machine Learning and Computer vision
+- 🔭 I’m currently working on **Machine Learning**, **Natural language processing** and **Deep Learning**
+- 🌱 I’m currently learning **Machine learning for Audio data**
+- 👯 I’m looking to collaborate on **Machine Learning** and **Computer vision**
+- 🤔 I’m looking for help with **Machine Learning on Big Data** and **Deploying real time object detection**
+- 💬 Ask me about **Docker**, **Machine Learning** and **Computer vision**
 - 📫 How to reach me: contact me directly on this mail [harishnatarajan2400@gmail.com](mailto:harishnatarajan2400@gmail.com)
 
 ## Connect with me:-
