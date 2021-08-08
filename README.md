@@ -44,7 +44,11 @@
 ## GitHub stats
 
 ![N-Harish GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Harish&theme=dark&show_icons=true)
+<br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harish&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=N-Harish&theme=dark)](https://git.io/streak-stats)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Harish&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
