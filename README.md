@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=N-Harish)
+<br/>
 
+<!-- [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/harishnatarajan2) -->
 
 
 # Hi there 👋, I'm **Harish Natarajan**
@@ -17,98 +19,50 @@
 ##
 ## Connect with me:-
 
-[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/harish-natarajan-82a4b418b/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![twitter](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/ttt.png)](https://twitter.com/nharish24)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![kaggle](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/kaggle.png)](https://www.kaggle.com/harish24)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:harishnatarajan24@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Hacker Rank](https://github.com/N-Harish/img/blob/main/hackerrank.svg)](https://www.hackerrank.com/harishnatarajan2)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-natarajan-82a4b418b/)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nharish24)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/harish24)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishnatarajan24@gmail.com)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/harishnatarajan2)
+
 
 
 ##
 ## Languages and Tools:
-<div>
-<a href="https://code.visualstudio.com" target="_blank">
-<img align="left" alt="Visual Studio Code" width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</a>
 
-<a href='https://www.w3schools.com/html/' target="_blank"><img align="left" alt="HTML5" width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-</a>
 
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-</a>
+[![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/docs)&nbsp;
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)&nbsp;
+[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)&nbsp;
+[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)&nbsp;
+[![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://pymongo.readthedocs.io/en/stable/)&nbsp;<br/>
 
-<a href="https://dev.mysql.com/doc/" target="_blank">
-<img align="left" alt="MySQL" width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-</a>
+[![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](http://git-scm.com/doc)&nbsp;
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en)&nbsp;
+[![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://docs.microsoft.com/en-us/azure/?product=featured)&nbsp;
+[![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/)&nbsp;
+[![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)&nbsp;<br/>
 
-<a href='https://pymongo.readthedocs.io/en/stable/' target="_blank">
-<img align="left" alt="MongoDB" width="60" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzXsKHjGSVexj4tkWZqgi63rI1P-p-K-yOnA&usqp=CAU" />
-</a>
+[![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/docs)&nbsp;
+[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)&nbsp;
+[![](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://docs.opencv.org)&nbsp;
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)](https://docs.python.org/3/)&nbsp;
+[![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://docs.streamlit.io/en/stable/)&nbsp;<br/>
 
-<a href="https://git-scm.com/docs" target="_blank">
-<img align="left" alt="Git" width="60" height="60" heighthttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyTdVLroA4YeFtYP87rT6O71dXKv2lLR1ZFg&usqp=CAU="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />
-</a>
+[![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)&nbsp;
+[![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=black)](https://docs.docker.com)&nbsp;
+[![](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/learn/)&nbsp;
+[![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://devcenter.heroku.com/categories/reference)&nbsp;
+[![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/documentation)&nbsp;<br/>
 
-<a href="https://docs.github.com/en" target="_blank">
-<img align="left" alt="GitHub" width="60" height="60" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</a>
+[![](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://fastapi.tiangolo.com)&nbsp;
+[![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true)&nbsp;
+[![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/documentation)&nbsp;
+[![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://docs.conda.io/en/latest/)&nbsp;
+[![](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/documentation.html)&nbsp;<br/>
 
-<a href="https://docs.microsoft.com/en-us/windows/terminal/" target="_blank">
-<img align="left" alt="Terminal" width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-</a>
 
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/> 
-</a> 
-<br/>
-<br/>
-<a href="https://getbootstrap.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> 
-</a> 
 
-<a href="https://www.cprogramming.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> 
-</a> 
-
-<a href="https://firebase.google.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
-</a> 
-
-<a href="https://flask.palletsprojects.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/> 
-</a>
-
-<a href="https://opencv.org/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/>
-</a> 
-
-<a href="https://www.python.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
-</a> 
-
-<a href="https://redis.io" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> 
-</a> 
-
-<a href="https://scikit-learn.org/" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/>
-</a>
-
-<a href="https://docs.docker.com" target="_blank">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSL7djLVTpqPIboztAOTN9RISEAjvIPFzUuw&usqp=CAU" alt="Docker" width="60" height="60"/> 
-</a>
-&nbsp;
-<a href="https://www.jetbrains.com/pycharm/learn/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="Pycharm" width="60" height="60"/>
-</a>
-
-<a href="https://heroku.com" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"/> 
-</a>
-
-<br />
-<br />
-
-</div>
 
 ##
 ## GitHub stats
