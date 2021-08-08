@@ -114,9 +114,17 @@
 ## GitHub stats
 
 ![N-Harish GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Harish&theme=dark&show_icons=true)
-<br>
+<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=N-Harish&theme=dark)](https://git.io/streak-stats)
-<br>
+<br/>
 
+##
+## Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Harish&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+##
+## Github contribution graph
+
+[![N-Harish github activity graph](https://activity-graph.herokuapp.com/graph?username=N-Harish&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
