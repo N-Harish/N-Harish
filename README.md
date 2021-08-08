@@ -30,3 +30,7 @@ I'm *Harish Natarajan* an final year IT engineer graduate who is an ML/AI enthus
 <br />
 <br />
 
+## GitHub stats
+
+![N-Harish GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Harish&theme=dark&show_icons=true)
+
