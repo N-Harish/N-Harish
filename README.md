@@ -98,6 +98,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="Pycharm" width="60" height="60"/>
 </a>
 
+<a href="https://heroku.com" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"/> 
+</a>
+
 <br />
 <br />
 
