@@ -45,3 +45,6 @@
 
 ![N-Harish GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Harish&theme=dark&show_icons=true)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harish)](https://git.io/streak-stats)
+
+
