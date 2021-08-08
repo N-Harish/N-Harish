@@ -22,7 +22,7 @@
 
 
 ## Languages and Tools:
-
+<div>
 <a href="https://code.visualstudio.com" target="_blank">
 <img align="left" alt="Visual Studio Code" width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </a>
@@ -93,9 +93,15 @@
 <a href="https://docs.docker.com" target="_blank">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSL7djLVTpqPIboztAOTN9RISEAjvIPFzUuw&usqp=CAU" alt="Docker" width="60" height="60"/> 
 </a>
+&nbsp;
+<a href="https://www.jetbrains.com/pycharm/learn/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="Pycharm" width="60" height="60"/>
+</a>
 
 <br />
 <br />
+
+</div>
 
 ## GitHub stats
 
