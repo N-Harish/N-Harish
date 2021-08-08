@@ -9,11 +9,11 @@
 I'm *Harish Natarajan* an engineer graduate who is an ML/AI enthusiast. 
 
 - 🔭 I’m currently working on Machine Learning, Natural language processing and Deep Learning
-- 🌱 I’m currently learning Docker, tesseract ocr
-- 👯 I’m looking to collaborate on Natural language processing
+- 🌱 I’m currently learning Machine learning on audio data
+- 👯 I’m looking to collaborate on Machine Learning and Computer vision
 - 🤔 I’m looking for help with MLops
-- 💬 Ask me about NLP, Deep Learning and Machine Learning
-- 📫 How to reach me: contact me directly on this mail [harishnatarajan24@gmail.com](mailto:harishnatarajan24@gmail.com)
+- 💬 Ask me about Deep Learning, Machine Learning and Computer vision
+- 📫 How to reach me: contact me directly on this mail [harishnatarajan2400@gmail.com](mailto:harishnatarajan2400@gmail.com)
 
 ### Languages and Tools:
 
