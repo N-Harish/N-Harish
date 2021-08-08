@@ -2,9 +2,11 @@
 
 
 
-## Hi there 👋 
-## I'm *Harish Natarajan*  An final year IT engineer graduate who is an ML/AI enthusiast. I've developed machine learning and deep learning wep apps using Flask and deployed them using Docker on Azure and Heroku cloud. I also code on Hackerrank where I have a five star in python and problem solving. Currently I'm working on Career Advisor using AI.
+# Hi there 👋, I'm **Harish Natarajan**
 
+## I'm an final year IT engineer graduate who is an ML/AI enthusiast. I've developed machine learning and deep learning wep apps using Flask and deployed them using Docker on Azure and Heroku cloud. I also code on Hackerrank where I have a five star in python and problem solving. Currently I'm working on Career Advisor using AI.
+
+### Info
 - 🔭 I’m currently working on **Machine Learning**, **Natural language processing** and **Deep Learning**
 - 🌱 I’m currently learning **Machine learning for Audio data**
 - 👯 I’m looking to collaborate on **Machine Learning** and **Computer vision**
@@ -12,6 +14,7 @@
 - 💬 Ask me about **Docker**, **Machine Learning** and **Computer vision**
 - 📫 How to reach me: contact me directly on this mail [harishnatarajan2400@gmail.com](mailto:harishnatarajan2400@gmail.com)
 
+##
 ## Connect with me:-
 
 [![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/harish-natarajan-82a4b418b/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,7 +23,7 @@
 [![Hacker Rank](https://github.com/N-Harish/img/blob/main/hackerrank.svg)](https://www.hackerrank.com/harishnatarajan2)
 
 
-
+##
 ## Languages and Tools:
 <div>
 <a href="https://code.visualstudio.com" target="_blank">
@@ -107,6 +110,7 @@
 
 </div>
 
+##
 ## GitHub stats
 
 ![N-Harish GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Harish&theme=dark&show_icons=true)
