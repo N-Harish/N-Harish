@@ -4,18 +4,18 @@
 
 
 
-### Hi there 👋
+## Hi there 👋
 
-I'm *Harish Natarajan* an engineer graduate who is an ML/AI enthusiast. 
+I'm *Harish Natarajan* an final year IT engineer graduate who is an ML/AI enthusiast. 
 
 - 🔭 I’m currently working on Machine Learning, Natural language processing and Deep Learning
 - 🌱 I’m currently learning Machine learning on audio data
 - 👯 I’m looking to collaborate on Machine Learning and Computer vision
-- 🤔 I’m looking for help with MLops
+- 🤔 I’m looking for help with machine learning on big data
 - 💬 Ask me about Deep Learning, Machine Learning and Computer vision
 - 📫 How to reach me: contact me directly on this mail [harishnatarajan2400@gmail.com](mailto:harishnatarajan2400@gmail.com)
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
