@@ -24,72 +24,74 @@
 ## Languages and Tools:
 
 <a href="https://code.visualstudio.com" target="_blank">
-<img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </a>
 
-<a href='https://www.w3schools.com/html/' target="_blank"><img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<a href='https://www.w3schools.com/html/' target="_blank"><img align="left" alt="HTML5" width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </a>
 
 <a href="https://dev.mysql.com/doc/" target="_blank">
-<img align="left" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 </a>
 
-<a href='https://pymongo.readthedocs.io/en/stable/' target="_blank"><img align="left" alt="MongoDB" width="40" height="40" src="https://www.vippng.com/png/detail/66-663131_sort-by-distance-in-mongodb-mongodb-logo.png" />
+<a href='https://pymongo.readthedocs.io/en/stable/' target="_blank">
+<img align="left" alt="MongoDB" width="60" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzXsKHjGSVexj4tkWZqgi63rI1P-p-K-yOnA&usqp=CAU" />
 </a>
 
 <a href="https://git-scm.com/docs" target="_blank">
-<img align="left" alt="Git" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />
+<img align="left" alt="Git" width="60" height="60" heighthttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyTdVLroA4YeFtYP87rT6O71dXKv2lLR1ZFg&usqp=CAU="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />
 </a>
 
 <a href="https://docs.github.com/en" target="_blank">
-<img align="left" alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="60" height="60" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </a>
 
 <a href="https://docs.microsoft.com/en-us/windows/terminal/" target="_blank">
-<img align="left" alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </a>
 
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/> 
 </a> 
-
+<br/>
+<br/>
 <a href="https://getbootstrap.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> 
 </a> 
 
 <a href="https://www.cprogramming.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> 
 </a> 
 
 <a href="https://firebase.google.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
 </a> 
 
 <a href="https://flask.palletsprojects.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/> 
 </a>
 
 <a href="https://opencv.org/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/>
 </a> 
 
 <a href="https://www.python.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
 </a> 
 
 <a href="https://redis.io" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> 
 </a> 
 
 <a href="https://scikit-learn.org/" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/>
 </a>
 
 <a href="https://docs.docker.com" target="_blank">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSL7djLVTpqPIboztAOTN9RISEAjvIPFzUuw&usqp=CAU" alt="Docker" width="40" height="40"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSL7djLVTpqPIboztAOTN9RISEAjvIPFzUuw&usqp=CAU" alt="Docker" width="60" height="60"/> 
 </a>
 
 <br />
