@@ -65,8 +65,13 @@
 [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)&nbsp;
 [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=black)](https://plotly.com/python/)&nbsp;
 
+##
+## Blog
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harishnatarajan24)&nbsp;
 
-
+##
+## Docker hub link
+[![Docker Hub](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/harish2414)&nbsp;
 
 ##
 ## GitHub stats
