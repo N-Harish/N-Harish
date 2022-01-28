@@ -28,7 +28,7 @@
 
 
 ##
-## Languages and Tools:
+## 🛠️ Languages and Tools:
 
 
 [![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/docs)&nbsp;
@@ -74,7 +74,7 @@
 [![Docker Hub](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/harish2414)&nbsp;
 
 ##
-## GitHub stats
+## 🔥 GitHub stats
 
 ![N-Harish GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Harish&theme=dark&show_icons=true)
 <br/>
@@ -82,12 +82,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=N-Harish&theme=dark)](https://git.io/streak-stats)
 <br/>
 
-##
-## Top languages
+### Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Harish&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-##
-## Github contribution graph
+### Github contribution graph
 
 [![N-Harish github activity graph](https://activity-graph.herokuapp.com/graph?username=N-Harish&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
