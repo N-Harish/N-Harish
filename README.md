@@ -91,4 +91,7 @@
 [![N-Harish github activity graph](https://activity-graph.herokuapp.com/graph?username=N-Harish&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
