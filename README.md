@@ -10,9 +10,9 @@
 
 ### Info
 - 🔭 I’m currently working on **Machine Learning**, **Natural language processing** and **Deep Learning**
-- 🌱 I’m currently learning **Machine learning for Audio data**
+- 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate on **Machine Learning** and **Computer vision**
-- 🤔 I’m looking for help with **Machine Learning on Big Data** and **Deploying real time object detection**
+- 🤔 I’m looking for help with **Machine Learning on Big Data** and **Deploying real time object detection on cloud**
 - 💬 Ask me about **Docker**, **Machine Learning** and **Computer vision**
 - 📫 How to reach me: contact me directly on this mail [harishnatarajan2400@gmail.com](mailto:harishnatarajan2400@gmail.com)
 
@@ -22,7 +22,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-natarajan-82a4b418b/)&nbsp;&nbsp;
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nharish24)&nbsp;&nbsp;
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/harish24)&nbsp;&nbsp;
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishnatarajan24@gmail.com)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishnatarajan2400@gmail.com)&nbsp;&nbsp;
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/harishnatarajan2)
 
 
