@@ -85,11 +85,3 @@
 ### Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Harish&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
