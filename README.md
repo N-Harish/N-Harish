@@ -86,10 +86,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Harish&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-### Github contribution graph
-
-(https://activity-graph.herokuapp.com/graph?username=N-Harish&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!--START_SECTION:waka-->
 
 ```text
