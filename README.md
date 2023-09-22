@@ -6,10 +6,12 @@
 
 # Hi there 👋, I'm **Harish Natarajan**
 
-## I'm an IT engineer graduate who is also an ML/AI enthusiast. I've one year professional experience as a Machine Learning Developer.I've developed machine learning and deep learning web apps using Flask and deployed them using Docker on Azure, GCP and Heroku cloud. I also code on Hackerrank where I have a five star in python and problem solving. Currently I'm working for a startup called AfterShoot Inc.
+
+I'm an IT engineer graduate who is also an ML/AI enthusiast. I've two year professional experience as a Machine Learning Developer.I've developed machine learning and deep learning web apps using Flask/FastAPI and deployed them using Docker on Azure, GCP and Heroku cloud. I am also the winner of 
+```Manthan National Security Hackathon 2021``` which is an ```all India level Hackathon``` conducted jointly by ```All India Council of Technical Education (AICTE)``` and ```Bureau of Police Research and Development (BPR&D)```.  I also code on Hackerrank where I have a five star in python and problem solving. Currently I'm working for a startup called AfterShoot Inc as a Computer Vision Engineer / Cloud Native Application Developer.
 
 ### Info
-- 🔭 I’m currently working on **Machine Learning**, **Natural language processing** and **Deep Learning**
+- 🔭 I’m currently working on **Machine Learning**, **Computer Vision**, **DevOps** and **Deep Learning**
 - 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate on **Machine Learning** and **Computer vision**
 - 🤔 I’m looking for help with **Machine Learning on Big Data** and **Deploying real time object detection on cloud**
@@ -24,7 +26,6 @@
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/harish24)&nbsp;&nbsp;
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishnatarajan2400@gmail.com)&nbsp;&nbsp;
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/harishnatarajan2)
-
 
 
 ##
@@ -64,6 +65,8 @@
 [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/)&nbsp;
 [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)&nbsp;
 [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=black)](https://plotly.com/python/)&nbsp;
+[![](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/docs)&nbsp;
+[![](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=black)](https://www.selenium.dev/documentation/)&nbsp;<br/>
 
 ##
 ## Blog
