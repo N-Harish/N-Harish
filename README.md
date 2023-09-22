@@ -65,7 +65,7 @@ I'm an IT engineer graduate who is also an ML/AI enthusiast. I've two year profe
 [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/)&nbsp;
 [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)&nbsp;
 [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=black)](https://plotly.com/python/)&nbsp;
-[![](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/docs)&nbsp;
+[![](https://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=black)](https://developer.hashicorp.com/terraform/docs)&nbsp;
 [![](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=black)](https://www.selenium.dev/documentation/)&nbsp;<br/>
 
 ##
