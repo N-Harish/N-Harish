@@ -68,6 +68,8 @@ I'm an IT engineer graduate who is also an ML/AI enthusiast. I've two year profe
 [![](https://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=black)](https://developer.hashicorp.com/terraform/docs)&nbsp;
 [![](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=black)](https://www.selenium.dev/documentation/)&nbsp;<br/>
 
+[![](https://img.shields.io/badge/-Celery-37814A?style=for-the-badge&logo=terraform&logoColor=black)](https://docs.celeryq.dev/en/stable/)&nbsp;
+
 ##
 ## Blog
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harishnatarajan24)&nbsp;
