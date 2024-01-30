@@ -12,10 +12,10 @@ I'm an IT engineer graduate who is also an ML/AI enthusiast. I've two year profe
 
 ### Info
 - 🔭 I’m currently working on **Machine Learning**, **Computer Vision**, **DevOps** and **Deep Learning**
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Gen AI**
 - 👯 I’m looking to collaborate on **Machine Learning** and **Computer vision**
-- 🤔 I’m looking for help with **Machine Learning on Big Data** and **Deploying real time object detection on cloud**
-- 💬 Ask me about **Docker**, **Machine Learning** and **Computer vision**
+- 🤔 I’m looking for help with **Machine Learning on Big Data**
+- 💬 Ask me about **Docker**, **Deep Learning**, **Machine Learning** and **Computer vision**
 - 📫 How to reach me: contact me directly on this mail [harishnatarajan2400@gmail.com](mailto:harishnatarajan2400@gmail.com)
 
 ##
