@@ -11,9 +11,9 @@ I'm an IT engineer graduate who is also an ML/AI enthusiast. I've two year profe
 ```Manthan National Security Hackathon 2021``` which is an ```all India level Hackathon``` conducted jointly by ```All India Council of Technical Education (AICTE)``` and ```Bureau of Police Research and Development (BPR&D)```.  I also code on Hackerrank where I have a five star in python and problem solving. Currently I'm working for a startup called AfterShoot Inc as a Computer Vision Engineer / Cloud Native Application Developer.
 
 ### Info
-- 🔭 I’m currently working on **Machine Learning**, **Computer Vision**, **DevOps** and **Deep Learning**
-- 🌱 I’m currently learning **Gen AI**
-- 👯 I’m looking to collaborate on **Machine Learning** and **Computer vision**
+- 🔭 I’m currently working on **Gen AI**, **Machine Learning**, **Computer Vision**, **DevOps** and **Deep Learning**
+- 🌱 I’m currently learning **Golang**
+- 👯 I’m looking to collaborate on **Gen AI**, **Machine Learning** and **Computer vision**
 - 🤔 I’m looking for help with **Machine Learning on Big Data**
 - 💬 Ask me about **Docker**, **Deep Learning**, **Machine Learning** and **Computer vision**
 - 📫 How to reach me: contact me directly on this mail [harishnatarajan2400@gmail.com](mailto:harishnatarajan2400@gmail.com)
