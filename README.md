@@ -8,7 +8,7 @@
 
 
 I'm an IT engineer graduate who is also an ML/AI enthusiast. I've two year professional experience as a Machine Learning Developer.I've developed machine learning and deep learning web apps using Flask/FastAPI and deployed them using Docker on Azure, GCP and Heroku cloud. I am also the winner of 
-```Manthan National Security Hackathon 2021``` which is an ```all India level Hackathon``` conducted jointly by ```All India Council of Technical Education (AICTE)``` and ```Bureau of Police Research and Development (BPR&D)```.  I also code on Hackerrank where I have a five star in python and problem solving. Currently I'm working for a startup called AfterShoot Inc as a Computer Vision Engineer / Cloud Native Application Developer.
+```Manthan National Security Hackathon 2021``` which is an ```all India level Hackathon``` conducted jointly by ```All India Council of Technical Education (AICTE)``` and ```Bureau of Police Research and Development (BPR&D)```.  I also code on Hackerrank where I have a five star in python and problem solving. I've worked for a startup called AfterShoot Inc as a Computer Vision Engineer / Cloud Native Application Developer for 2.5 years. Currently I'm pursuing my Masters degree (MS) in Artificial Intelligence from Queen Mary University of London.
 
 ### Info
 - 🔭 I’m currently working on **Gen AI**, **Machine Learning**, **Computer Vision**, **DevOps** and **Deep Learning**
